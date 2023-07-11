@@ -12,7 +12,7 @@
 <!-- <img align="right" src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_esig_promo.gif"/> -->
 </a>
 
-<h3 align="left">Follow me:📫</h3>
+<h3 align="left">Follow me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/premil-jayasundara-0300ab127/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="premiljayasundara" height="30" width="40" /></a>
 <a href="https://www.instagram.com/premiljayasundara/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="premiljayasundara" height="30" width="40" /></a>
@@ -41,6 +41,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premil&label=Profile%20views&color=blueviolet&style=plastic" alt="premiljayasundara" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premil&show_icons=true&locale=en&layout=compact&theme=dark" alt="premiljayasundara" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=premil&show_icons=true&locale=en&theme=tokyonight" alt="premiljayasundara" /></p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=premil&theme=earth&" alt="premiljayasundara" /></p>
 
 <!--
