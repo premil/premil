@@ -1,4 +1,6 @@
-### Hi there 👋
+###  👋
+###  🔭 I’m working as Software Engineer at Arimac
+###  🌱 I’m currently learning Full-stack development
 
 <!--
 **premil/premil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
