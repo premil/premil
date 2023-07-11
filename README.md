@@ -12,7 +12,6 @@
 <!-- <img align="right" src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_esig_promo.gif"/> -->
 </a>
 
-<br>
 <h3 align="left">Follow me:📫</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/premil-jayasundara-0300ab127/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="premiljayasundara" height="30" width="40" /></a>
