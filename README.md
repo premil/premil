@@ -39,8 +39,8 @@
 
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premil&label=Profile%20views&color=blueviolet&style=plastic" alt="premiljayasundara" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premil&show_icons=true&locale=en&layout=compact&theme=dark" alt="premiljayasundara" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=premil&show_icons=true&locale=en&theme=tokyonight" alt="premiljayasundara" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premil&show_icons=true&locale=en&layout=compact&theme=dark" alt="premiljayasundara" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=premil&show_icons=true&locale=en&theme=tokyonight" alt="premiljayasundara" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=premil&theme=earth&" alt="premiljayasundara" /></p>
 
 <!--
