@@ -8,7 +8,7 @@
 
 - 🔭 I’m working as a Software Engineer at Arimac 
 <a>
-<img align="left" src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_logo.png"/>
+<img src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_logo.png"/>
 <!-- <img align="right" src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_esig_promo.gif"/> -->
 </a>
 
