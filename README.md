@@ -53,7 +53,9 @@
   </a> 
 </p>
 
+<br><br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premil&show_icons=true&locale=en&layout=compact&theme=dark" alt="premil" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=premil&show_icons=true&theme=radical" alt="premil" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=premil&theme=earth&" alt="premil" /></p>
 
 <!--
