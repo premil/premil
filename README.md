@@ -7,6 +7,7 @@
 - 🔭 I’m working as a Software Engineer at Arimac
 - 🌱 I’m currently learning Full-stack development
 
+<br>
 <h3 align="left">Follow me:📫</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/premil-jayasundara-0300ab127/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="premil jayasundara" height="30" width="40" /></a>
@@ -32,9 +33,9 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-<br><br><br>
+<br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premil&show_icons=true&locale=en&layout=compact&theme=dark" alt="premil" /></p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=premil&show_icons=true&locale=en&theme=radical" alt="premil" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=premil&show_icons=true&locale=en&theme=radical" alt="premil" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=premil&theme=earth&" alt="premil" /></p>
 
 <!--
