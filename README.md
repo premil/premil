@@ -36,7 +36,7 @@
 <br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premil&show_icons=true&locale=en&layout=compact&theme=dark" alt="premil jayasindara" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=premil&theme=earth&" alt="premil jayasundara" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=premil&show_icons=true&locale=en&theme=onedark" alt="premil jayasundara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=premil&show_icons=true&locale=en&theme=merko" alt="premil jayasundara" /></p>
 
 <!--
 **premil/premil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
