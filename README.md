@@ -3,9 +3,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=598996&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C++I'm+Premil+Jayasundara" alt="Typing SVG" />
   </a>
 </h3>
-
-- 🔭 I’m working as a Software Engineer at Arimac <img src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_logo.png"/>
 - 🌱 I’m currently learning Full-stack development
+- 🔭 I’m working as a Software Engineer at Arimac 
+- <img src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_logo.png"/>
+
 <br>
 <h3 align="left">Follow me:📫</h3>
 <p align="left">
