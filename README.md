@@ -10,15 +10,15 @@
 
 <p>
   <a>
-    <img src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_logo.png"/>
-    <img align="right" src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_esig_promo.gif"/>
+    <img src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_logo.png" height="80" width="80"/>
+    <img align="right" src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_esig_promo.gif" height="80" width="200"/>
   </a>
 </p>
 
 <h3 align="left">Follow me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/premil-jayasundara-0300ab127/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="premiljayasundara" height="30" width="40" /></a>
-<a href="https://www.instagram.com/premiljayasundara/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="premiljayasundara" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/premil-jayasundara-0300ab127/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="premiljayasundara" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/premiljayasundara/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="premiljayasundara" height="30" width="40" /></a>
 </p>
 
 <!-- Languages & tools -->
