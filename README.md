@@ -10,7 +10,7 @@
 
 <p align="left">
   <a>
-    <img align="center" src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_logo.png" height="100" width="100"/>
+    <img align="center" src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_logo.png" height="110" width="110"/>
     <img align="center" src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_esig_promo.gif" height="90" width="300"/>
   </a>
 </p>
