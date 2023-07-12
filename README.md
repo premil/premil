@@ -8,10 +8,10 @@
 
 - 🔭 I’m working as a Software Engineer at Arimac
 
-<p>
+<p align="left">
   <a>
-    <img src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_logo.png" height="80" width="80"/>
-    <img align="right" src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_esig_promo.gif" height="80" width="200"/>
+    <img src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_logo.png" height="100" width="100"/>
+    <img align="right" src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_esig_promo.gif" height="100" width="300"/>
   </a>
 </p>
 
