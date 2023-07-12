@@ -6,11 +6,14 @@
 
 - 🌱 I’m currently learning Full-stack development
 
-- 🔭 I’m working as a Software Engineer at Arimac 
-<a>
-<img src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_logo.png"/>
-<!-- <img align="right" src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_esig_promo.gif"/> -->
-</a>
+- 🔭 I’m working as a Software Engineer at Arimac
+
+<p>
+  <a>
+    <img src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_logo.png"/>
+    <img align="right" src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_esig_promo.gif"/>
+  </a>
+</p>
 
 <h3 align="left">Follow me:</h3>
 <p align="left">
