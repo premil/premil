@@ -13,7 +13,7 @@
 </a>
 
 <h3 align="left">Follow me:</h3>
-<p align="left">
+<p align="left" style="background-color: white; padding: 10px;">
 <a href="https://www.linkedin.com/in/premil-jayasundara-0300ab127/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="premiljayasundara" height="30" width="40" /></a>
 <a href="https://www.instagram.com/premiljayasundara/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="premiljayasundara" height="30" width="40" /></a>
 </p>
