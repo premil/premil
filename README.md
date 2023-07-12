@@ -24,7 +24,7 @@
 <!-- MERN Stack flow -->
 <!-- =============== -->
 <p align="left" >
-    <a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="40"/> </a>
    <a href="https://react.dev/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> 
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://iotbyhvm.ooo/wp-content/uploads/2019/01/expressjs.png" alt="expressjs" width="70" height="40" /> </a> 
