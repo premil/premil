@@ -8,6 +8,8 @@
 
 - 🔭 I’m working as a Software Engineer at Arimac
 
+<!-- Company Logo -->
+<!-- ============= -->
 <p align="left">
   <a>
     <img align="center" src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_logo.png" height="120" width="120"/>
@@ -16,15 +18,18 @@
 </p>
 
 <!-- Licenses & certifications -->
+<!-- ========================= -->
 <h3 align="left">Licenses & certificationse:</h3>
 <p align="left">
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/SA4G934L9XFT" target="blank"> ⚡ Cloud Engineering with Google Cloud Specialization </a> <br>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V3ATWELKCZQQ" target="blank"> ⚡ Architecting with Google Compute Engine Specialization </a> <br>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/S7NCNWVJG9KB" target="blank"> ⚡ Databases with Python </a> <br>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/ZUSEYGBAB6X3" target="blank"> ⚡ Linux Server Management and Security </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/SA4G934L9XFT" target="blank" color="white" > ⚡ Cloud Engineering with Google Cloud Specialization </a> <br>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V3ATWELKCZQQ" target="blank" color="white" > ⚡ Architecting with Google Compute Engine Specialization </a> <br>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/8G8U5YEV5N2B" target="blank" color="white" > ⚡ Python for Everybody Specialization </a> <br>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/YLLMJPYDLJ8V" target="blank" color="white" > ⚡ End-to-End Machine Learning with TensorFlow on GCP </a> <br>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/ZUSEYGBAB6X3" target="blank" color="white" > ⚡ Linux Server Management and Security </a>
 </p>
 
 <!-- Follow me -->
+<!-- ========= -->
 <h3 align="left">Follow me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/premil-jayasundara-0300ab127/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="premiljayasundara" height="30" width="40" /></a>
@@ -32,10 +37,10 @@
 </p>
 
 <!-- Languages & tools -->
+<!-- ================= -->
 <h3 align="left">Languages and Tools:</h3>
 
 <!-- MERN Stack flow -->
-<!-- =============== -->
 <p align="left" >
     <a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="40"/> </a>
    <a href="https://react.dev/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> 
@@ -44,7 +49,6 @@
 </p>
 
 <!-- Other languages & tools -->
-<!-- ======================= -->
 <p align="left" >  
   <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -62,8 +66,10 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
-
 <br><br>
+
+<!-- Github My Account status -->
+<!-- ======================== -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premil&label=Profile%20views&color=blueviolet&style=flat" alt="premiljayasundara" /> </p>
 <p align="left"> 
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premil&show_icons=true&locale=en&layout=compact&theme=dark" alt="premiljayasundara" /> 
