@@ -18,10 +18,10 @@
 <!-- Licenses & certifications -->
 <h3 align="left">Licenses & certificationse:</h3>
 <p align="left">
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/SA4G934L9XFT" target="blank"> - Cloud Engineering with Google Cloud Specialization </a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V3ATWELKCZQQ" target="blank"> - Architecting with Google Compute Engine Specialization </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/S7NCNWVJG9KB" target="blank"> - Databases with Python </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/ZUSEYGBAB6X3" target="blank"> - Linux Server Management and Security </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/SA4G934L9XFT" target="blank"> ⚡ Cloud Engineering with Google Cloud Specialization </a> <br>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V3ATWELKCZQQ" target="blank"> ⚡ Architecting with Google Compute Engine Specialization </a> <br>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/S7NCNWVJG9KB" target="blank"> ⚡ Databases with Python </a> <br>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/ZUSEYGBAB6X3" target="blank"> ⚡ Linux Server Management and Security </a>
 </p>
 
 <!-- Follow me -->
