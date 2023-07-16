@@ -21,11 +21,11 @@
 <!-- ========================= -->
 <h3 align="left">Licenses & certificationse:</h3>
 <p align="left">
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/SA4G934L9XFT" target="blank" color="white" > ⚡ Cloud Engineering with Google Cloud Specialization </a> <br>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V3ATWELKCZQQ" target="blank" color="white" > ⚡ Architecting with Google Compute Engine Specialization </a> <br>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/8G8U5YEV5N2B" target="blank" color="white" > ⚡ Python for Everybody Specialization </a> <br>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/YLLMJPYDLJ8V" target="blank" color="white" > ⚡ End-to-End Machine Learning with TensorFlow on GCP </a> <br>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/ZUSEYGBAB6X3" target="blank" color="white" > ⚡ Linux Server Management and Security </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/SA4G934L9XFT" target="blank" > ⚡ Cloud Engineering with Google Cloud Specialization </a> <br>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V3ATWELKCZQQ" target="blank" > ⚡ Architecting with Google Compute Engine Specialization </a> <br>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/8G8U5YEV5N2B" target="blank" > ⚡ Python for Everybody Specialization </a> <br>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/YLLMJPYDLJ8V" target="blank" > ⚡ End-to-End Machine Learning with TensorFlow on GCP </a> <br>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/ZUSEYGBAB6X3" target="blank" > ⚡ Linux Server Management and Security </a>
 </p>
 
 <!-- Follow me -->
