@@ -13,7 +13,7 @@
 <p align="left">
   <a>
     <img align="center" src="https://arimac.obs.ap-southeast-3.myhuaweicloud.com/email_signature/assets/images/arimac_logo.png" height="120" width="120"/>
-    <img align="center" src="https://storage.googleapis.com/arimac/email_signature/assets/images/arimac_esig_promo.gif" height="90" width="300"/>
+    <img align="center" src="https://arimac.obs.ap-southeast-3.myhuaweicloud.com/email_signature/assets/images/arimac_esig_promo.gif" height="90" width="300"/>
   </a>
 </p>
 
