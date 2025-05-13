@@ -4,9 +4,9 @@
   </a>
 </h3>
 
-- 🌱 I’m currently learning Full-stack development
+- 🌱 I’m currently learning Python.
 
-- 🔭 I’m working as a Software Engineer at Arimac
+- 🔭 I’m working as a Full-stack Software Engineer at Arimac
 
 <!-- Company Logo -->
 <!-- ============= -->
